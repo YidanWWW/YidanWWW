@@ -1,18 +1,23 @@
 # Hey there! 👋 I'm Ruby(Yidan) Wang!
 
-I'm a Computer Software Engineering student at Northeastern University's Boston campus with a passion for full-stack development. I love exploring various technologies and building exciting projects.
+I'm a Computer Software Engineering student at Northeastern University's Boston campus with a passion for full-stack development. I'm Seeking 2024 SDE Internship/Co-op. I love exploring various technologies and building exciting projects.
 
 ## 🚀 Technical Skills
 
 - **Languages:** Java (excellent), Python, JavaScript, C++, HTML/CSS, SQL
-- **Frameworks/Libraries:** React Native, React, Node.js, Express.js
-- **Tools:** Docker, Linux, Git, Shell, AWS, Postman
+- **Frameworks/Libraries:** React Native, React, Node.js, Express.js， Spring Boot, GUI
+- **Database:** MongoDB, MySQL, Firebase, PostgreSQL, DB4O
+- **Tools:** Docker, Linux, Git, Shell, AWS, Postman, Figma
 
 ## 🌱 About Me
 
 I'm currently honing my skills in full-stack development, and I'm always eager to learn new things and take on challenging projects. My curiosity drives me to explore different areas of software engineering and continuously improve my abilities.
 
 Feel free to explore my repositories for my projects and code!
+
+## 🎉 Upcoming Event: Grace Hopper Celebration (GHC)
+
+I'm thrilled to announce that I'll be attending the upcoming Grace Hopper Celebration, a fantastic event that celebrates and empowers women in computer science and technology. I'm looking forward to connecting with inspiring professionals, attending insightful sessions, and expanding my network in the tech industry.
 
 ## 📫 Contact Me
 
