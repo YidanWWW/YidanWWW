@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey there! 👋 I'm Ruby(Yidan) Wang!
 
-<!--
-**YidanWWW/YidanWWW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Software Engineering student at Northeastern University's Boston campus with a passion for full-stack development. I love exploring various technologies and building exciting projects.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java (excellent), Python, JavaScript, C++, HTML/CSS, SQL
+- **Frameworks/Libraries:** React Native, React, Node.js, Express.js
+- **Tools:** Docker, Linux, Git, Shell, AWS, Postman
+
+## 🌱 About Me
+
+I'm currently honing my skills in full-stack development, and I'm always eager to learn new things and take on challenging projects. My curiosity drives me to explore different areas of software engineering and continuously improve my abilities.
+
+Feel free to explore my repositories for my projects and code!
+
+## 📫 Contact Me
+
+You can reach out to me via email at wang.yidan2@northeastern.edu. Let's connect and collaborate!
+
+Looking forward to making great contributions to the software development community!
+
+
