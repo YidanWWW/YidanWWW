@@ -15,9 +15,6 @@ I'm currently honing my skills in full-stack development, and I'm always eager t
 
 Feel free to explore my repositories for my projects and code!
 
-## 🎉 Upcoming Event: Grace Hopper Celebration (GHC 2023)
-
-I'm thrilled to announce that I'll be attending the upcoming Grace Hopper Celebration, a fantastic event that celebrates and empowers women in computer science and technology. I'm looking forward to connecting with inspiring professionals, attending insightful sessions, and expanding my network in the tech industry.
 
 ## 📫 Contact Me
 
