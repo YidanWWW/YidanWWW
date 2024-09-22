@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Ruby Wang!
 
-I'm a Computer Software Engineering student at Northeastern University's Boston campus with a passion for full-stack development. I'm Seeking 2024 SDE Internship/Co-op. I love exploring various technologies and building exciting projects.
+I'm a Computer Software Engineering student at Northeastern University's Boston campus with a passion for full-stack development. 
 
 ## 🚀 Technical Skills
 
