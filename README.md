@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ruby Wang!
+# Hey there!
 
 I'm a Computer Software Engineering student at Northeastern University's Boston campus with a passion for full-stack development. 
 
