@@ -4,9 +4,9 @@ I'm a Computer Software Engineering student at Northeastern University's Boston 
 
 ## 🚀 Technical Skills
 
-- **Languages:** Java (excellent), Python, JavaScript, C++, HTML/CSS, SQL
+- **Languages:** Java (excellent), Scala, Python, JavaScript, C++, HTML/CSS, SQL
 - **Frameworks/Libraries:** React Native, React, Node.js, Express.js, Spring Boot, GUI
-- **Database:** MongoDB, MySQL, Firebase, PostgreSQL, DB4O
+- **Database:** MongoDB, MySQL, Firebase, PostgreSQL
 - **Tools:** Docker, Linux, Git, Shell, AWS, Postman, Figma
 
 ## 🌱 About Me
